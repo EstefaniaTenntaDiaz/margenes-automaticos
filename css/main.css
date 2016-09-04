@@ -1,0 +1,25 @@
+.laboratoria{
+	width:100px;
+	height: 100px;
+	padding: 20px;
+	border: 10px solid #fcf633; 
+	font-size: 9px;
+	text-align: center;
+	margin: 10px;
+}
+.programacion{
+	width:100px;
+	height: 100px;
+	margin: 20px; 
+	padding: 20px;
+	border: 10px solid #fcf633; 
+	font-size: 8px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+div{
+	border: groove;
+	width: 800px;
+	height: 400px;
+
+}
